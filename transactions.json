@@ -13158,5 +13158,1097 @@
         "type": "sell",
         "risk_score": 96,
         "timestamp": "2025-12-07 00:37:13"
+    },
+    {
+        "transaction_id": "TX7239",
+        "amount": 73071,
+        "type": "sell",
+        "risk_score": 10,
+        "timestamp": "2025-12-07 00:37:15"
+    },
+    {
+        "transaction_id": "TX7345",
+        "amount": 49036,
+        "type": "buy",
+        "risk_score": 14,
+        "timestamp": "2025-12-07 00:37:16"
+    },
+    {
+        "transaction_id": "TX9780",
+        "amount": 79495,
+        "type": "buy",
+        "risk_score": 98,
+        "timestamp": "2025-12-07 00:37:18"
+    },
+    {
+        "transaction_id": "TX8932",
+        "amount": 97679,
+        "type": "buy",
+        "risk_score": 79,
+        "timestamp": "2025-12-07 00:37:18"
+    },
+    {
+        "transaction_id": "TX2256",
+        "amount": 56790,
+        "type": "sell",
+        "risk_score": 48,
+        "timestamp": "2025-12-07 00:37:20"
+    },
+    {
+        "transaction_id": "TX3019",
+        "amount": 83911,
+        "type": "buy",
+        "risk_score": 89,
+        "timestamp": "2025-12-07 00:37:20"
+    },
+    {
+        "transaction_id": "TX7638",
+        "amount": 94403,
+        "type": "buy",
+        "risk_score": 54,
+        "timestamp": "2025-12-07 00:37:22"
+    },
+    {
+        "transaction_id": "TX4122",
+        "amount": 47227,
+        "type": "buy",
+        "risk_score": 1,
+        "timestamp": "2025-12-07 00:37:22"
+    },
+    {
+        "transaction_id": "TX5675",
+        "amount": 57728,
+        "type": "buy",
+        "risk_score": 0,
+        "timestamp": "2025-12-07 00:37:24"
+    },
+    {
+        "transaction_id": "TX7314",
+        "amount": 45925,
+        "type": "buy",
+        "risk_score": 37,
+        "timestamp": "2025-12-07 00:37:24"
+    },
+    {
+        "transaction_id": "TX7560",
+        "amount": 82492,
+        "type": "buy",
+        "risk_score": 7,
+        "timestamp": "2025-12-07 00:37:26"
+    },
+    {
+        "transaction_id": "TX6641",
+        "amount": 45830,
+        "type": "buy",
+        "risk_score": 72,
+        "timestamp": "2025-12-07 00:37:26"
+    },
+    {
+        "transaction_id": "TX2639",
+        "amount": 43737,
+        "type": "sell",
+        "risk_score": 80,
+        "timestamp": "2025-12-07 00:37:28"
+    },
+    {
+        "transaction_id": "TX5809",
+        "amount": 94646,
+        "type": "buy",
+        "risk_score": 95,
+        "timestamp": "2025-12-07 00:37:29"
+    },
+    {
+        "transaction_id": "TX1525",
+        "amount": 52968,
+        "type": "sell",
+        "risk_score": 90,
+        "timestamp": "2025-12-07 00:37:31"
+    },
+    {
+        "transaction_id": "TX3782",
+        "amount": 3463,
+        "type": "sell",
+        "risk_score": 64,
+        "timestamp": "2025-12-07 00:37:31"
+    },
+    {
+        "transaction_id": "TX3175",
+        "amount": 5660,
+        "type": "buy",
+        "risk_score": 15,
+        "timestamp": "2025-12-07 00:37:33"
+    },
+    {
+        "transaction_id": "TX6256",
+        "amount": 72167,
+        "type": "buy",
+        "risk_score": 2,
+        "timestamp": "2025-12-07 00:37:33"
+    },
+    {
+        "transaction_id": "TX8593",
+        "amount": 59903,
+        "type": "buy",
+        "risk_score": 100,
+        "timestamp": "2025-12-07 00:37:35"
+    },
+    {
+        "transaction_id": "TX1054",
+        "amount": 16138,
+        "type": "sell",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:37:35"
+    },
+    {
+        "transaction_id": "TX6201",
+        "amount": 64929,
+        "type": "buy",
+        "risk_score": 94,
+        "timestamp": "2025-12-07 00:37:37"
+    },
+    {
+        "transaction_id": "TX7268",
+        "amount": 17759,
+        "type": "sell",
+        "risk_score": 46,
+        "timestamp": "2025-12-07 00:37:37"
+    },
+    {
+        "transaction_id": "TX3917",
+        "amount": 4503,
+        "type": "buy",
+        "risk_score": 53,
+        "timestamp": "2025-12-07 00:37:39"
+    },
+    {
+        "transaction_id": "TX2708",
+        "amount": 61433,
+        "type": "sell",
+        "risk_score": 1,
+        "timestamp": "2025-12-07 00:37:39"
+    },
+    {
+        "transaction_id": "TX5798",
+        "amount": 23791,
+        "type": "sell",
+        "risk_score": 55,
+        "timestamp": "2025-12-07 00:37:41"
+    },
+    {
+        "transaction_id": "TX1536",
+        "amount": 73293,
+        "type": "buy",
+        "risk_score": 67,
+        "timestamp": "2025-12-07 00:37:42"
+    },
+    {
+        "transaction_id": "TX6575",
+        "amount": 17008,
+        "type": "sell",
+        "risk_score": 75,
+        "timestamp": "2025-12-07 00:37:43"
+    },
+    {
+        "transaction_id": "TX3354",
+        "amount": 41295,
+        "type": "sell",
+        "risk_score": 55,
+        "timestamp": "2025-12-07 00:37:44"
+    },
+    {
+        "transaction_id": "TX8840",
+        "amount": 31789,
+        "type": "buy",
+        "risk_score": 60,
+        "timestamp": "2025-12-07 00:37:46"
+    },
+    {
+        "transaction_id": "TX6813",
+        "amount": 77081,
+        "type": "sell",
+        "risk_score": 11,
+        "timestamp": "2025-12-07 00:37:46"
+    },
+    {
+        "transaction_id": "TX9601",
+        "amount": 94378,
+        "type": "sell",
+        "risk_score": 92,
+        "timestamp": "2025-12-07 00:37:48"
+    },
+    {
+        "transaction_id": "TX5578",
+        "amount": 12067,
+        "type": "buy",
+        "risk_score": 88,
+        "timestamp": "2025-12-07 00:37:48"
+    },
+    {
+        "transaction_id": "TX4809",
+        "amount": 24228,
+        "type": "sell",
+        "risk_score": 71,
+        "timestamp": "2025-12-07 00:37:50"
+    },
+    {
+        "transaction_id": "TX9441",
+        "amount": 70169,
+        "type": "buy",
+        "risk_score": 24,
+        "timestamp": "2025-12-07 00:37:50"
+    },
+    {
+        "transaction_id": "TX2839",
+        "amount": 3086,
+        "type": "buy",
+        "risk_score": 28,
+        "timestamp": "2025-12-07 00:37:52"
+    },
+    {
+        "transaction_id": "TX2058",
+        "amount": 25662,
+        "type": "buy",
+        "risk_score": 26,
+        "timestamp": "2025-12-07 00:37:52"
+    },
+    {
+        "transaction_id": "TX1898",
+        "amount": 2382,
+        "type": "buy",
+        "risk_score": 25,
+        "timestamp": "2025-12-07 00:37:54"
+    },
+    {
+        "transaction_id": "TX3259",
+        "amount": 67316,
+        "type": "buy",
+        "risk_score": 13,
+        "timestamp": "2025-12-07 00:37:54"
+    },
+    {
+        "transaction_id": "TX1053",
+        "amount": 70458,
+        "type": "sell",
+        "risk_score": 25,
+        "timestamp": "2025-12-07 00:37:56"
+    },
+    {
+        "transaction_id": "TX1056",
+        "amount": 27308,
+        "type": "sell",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:37:57"
+    },
+    {
+        "transaction_id": "TX5630",
+        "amount": 49685,
+        "type": "sell",
+        "risk_score": 21,
+        "timestamp": "2025-12-07 00:37:59"
+    },
+    {
+        "transaction_id": "TX4904",
+        "amount": 20614,
+        "type": "sell",
+        "risk_score": 64,
+        "timestamp": "2025-12-07 00:37:59"
+    },
+    {
+        "transaction_id": "TX6640",
+        "amount": 31433,
+        "type": "buy",
+        "risk_score": 39,
+        "timestamp": "2025-12-07 00:38:01"
+    },
+    {
+        "transaction_id": "TX5149",
+        "amount": 11990,
+        "type": "sell",
+        "risk_score": 47,
+        "timestamp": "2025-12-07 00:38:01"
+    },
+    {
+        "transaction_id": "TX7276",
+        "amount": 68964,
+        "type": "buy",
+        "risk_score": 74,
+        "timestamp": "2025-12-07 00:38:03"
+    },
+    {
+        "transaction_id": "TX2474",
+        "amount": 44660,
+        "type": "sell",
+        "risk_score": 28,
+        "timestamp": "2025-12-07 00:38:03"
+    },
+    {
+        "transaction_id": "TX9027",
+        "amount": 92428,
+        "type": "sell",
+        "risk_score": 100,
+        "timestamp": "2025-12-07 00:38:05"
+    },
+    {
+        "transaction_id": "TX9991",
+        "amount": 2680,
+        "type": "sell",
+        "risk_score": 31,
+        "timestamp": "2025-12-07 00:38:05"
+    },
+    {
+        "transaction_id": "TX4830",
+        "amount": 15504,
+        "type": "buy",
+        "risk_score": 82,
+        "timestamp": "2025-12-07 00:38:07"
+    },
+    {
+        "transaction_id": "TX8456",
+        "amount": 58631,
+        "type": "sell",
+        "risk_score": 42,
+        "timestamp": "2025-12-07 00:38:07"
+    },
+    {
+        "transaction_id": "TX3116",
+        "amount": 49508,
+        "type": "buy",
+        "risk_score": 65,
+        "timestamp": "2025-12-07 00:38:09"
+    },
+    {
+        "transaction_id": "TX2855",
+        "amount": 27486,
+        "type": "buy",
+        "risk_score": 55,
+        "timestamp": "2025-12-07 00:38:10"
+    },
+    {
+        "transaction_id": "TX2603",
+        "amount": 76171,
+        "type": "buy",
+        "risk_score": 75,
+        "timestamp": "2025-12-07 00:38:12"
+    },
+    {
+        "transaction_id": "TX4214",
+        "amount": 66969,
+        "type": "buy",
+        "risk_score": 99,
+        "timestamp": "2025-12-07 00:38:12"
+    },
+    {
+        "transaction_id": "TX2221",
+        "amount": 64138,
+        "type": "sell",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:38:14"
+    },
+    {
+        "transaction_id": "TX6783",
+        "amount": 78338,
+        "type": "sell",
+        "risk_score": 63,
+        "timestamp": "2025-12-07 00:38:14"
+    },
+    {
+        "transaction_id": "TX5139",
+        "amount": 40121,
+        "type": "buy",
+        "risk_score": 80,
+        "timestamp": "2025-12-07 00:38:16"
+    },
+    {
+        "transaction_id": "TX2499",
+        "amount": 89874,
+        "type": "buy",
+        "risk_score": 12,
+        "timestamp": "2025-12-07 00:38:16"
+    },
+    {
+        "transaction_id": "TX2105",
+        "amount": 12627,
+        "type": "buy",
+        "risk_score": 0,
+        "timestamp": "2025-12-07 00:38:18"
+    },
+    {
+        "transaction_id": "TX7063",
+        "amount": 10860,
+        "type": "buy",
+        "risk_score": 19,
+        "timestamp": "2025-12-07 00:38:18"
+    },
+    {
+        "transaction_id": "TX5953",
+        "amount": 87793,
+        "type": "sell",
+        "risk_score": 53,
+        "timestamp": "2025-12-07 00:38:20"
+    },
+    {
+        "transaction_id": "TX7586",
+        "amount": 12398,
+        "type": "buy",
+        "risk_score": 80,
+        "timestamp": "2025-12-07 00:38:20"
+    },
+    {
+        "transaction_id": "TX3811",
+        "amount": 1299,
+        "type": "buy",
+        "risk_score": 92,
+        "timestamp": "2025-12-07 00:38:22"
+    },
+    {
+        "transaction_id": "TX3690",
+        "amount": 53279,
+        "type": "buy",
+        "risk_score": 78,
+        "timestamp": "2025-12-07 00:38:22"
+    },
+    {
+        "transaction_id": "TX4497",
+        "amount": 1464,
+        "type": "buy",
+        "risk_score": 85,
+        "timestamp": "2025-12-07 00:38:25"
+    },
+    {
+        "transaction_id": "TX4695",
+        "amount": 38627,
+        "type": "buy",
+        "risk_score": 67,
+        "timestamp": "2025-12-07 00:38:25"
+    },
+    {
+        "transaction_id": "TX4624",
+        "amount": 47005,
+        "type": "buy",
+        "risk_score": 76,
+        "timestamp": "2025-12-07 00:38:27"
+    },
+    {
+        "transaction_id": "TX8594",
+        "amount": 37292,
+        "type": "buy",
+        "risk_score": 3,
+        "timestamp": "2025-12-07 00:38:27"
+    },
+    {
+        "transaction_id": "TX8819",
+        "amount": 92248,
+        "type": "buy",
+        "risk_score": 18,
+        "timestamp": "2025-12-07 00:38:29"
+    },
+    {
+        "transaction_id": "TX3890",
+        "amount": 70220,
+        "type": "sell",
+        "risk_score": 57,
+        "timestamp": "2025-12-07 00:38:29"
+    },
+    {
+        "transaction_id": "TX2169",
+        "amount": 10137,
+        "type": "sell",
+        "risk_score": 100,
+        "timestamp": "2025-12-07 00:38:31"
+    },
+    {
+        "transaction_id": "TX5431",
+        "amount": 94415,
+        "type": "sell",
+        "risk_score": 7,
+        "timestamp": "2025-12-07 00:38:31"
+    },
+    {
+        "transaction_id": "TX3141",
+        "amount": 60862,
+        "type": "buy",
+        "risk_score": 89,
+        "timestamp": "2025-12-07 00:38:33"
+    },
+    {
+        "transaction_id": "TX4016",
+        "amount": 53614,
+        "type": "buy",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:38:33"
+    },
+    {
+        "transaction_id": "TX5276",
+        "amount": 32434,
+        "type": "buy",
+        "risk_score": 37,
+        "timestamp": "2025-12-07 00:38:35"
+    },
+    {
+        "transaction_id": "TX4476",
+        "amount": 75970,
+        "type": "sell",
+        "risk_score": 9,
+        "timestamp": "2025-12-07 00:38:35"
+    },
+    {
+        "transaction_id": "TX7956",
+        "amount": 21578,
+        "type": "sell",
+        "risk_score": 72,
+        "timestamp": "2025-12-07 00:38:37"
+    },
+    {
+        "transaction_id": "TX6578",
+        "amount": 16093,
+        "type": "sell",
+        "risk_score": 1,
+        "timestamp": "2025-12-07 00:38:38"
+    },
+    {
+        "transaction_id": "TX8686",
+        "amount": 11334,
+        "type": "buy",
+        "risk_score": 35,
+        "timestamp": "2025-12-07 00:38:40"
+    },
+    {
+        "transaction_id": "TX3909",
+        "amount": 37331,
+        "type": "sell",
+        "risk_score": 0,
+        "timestamp": "2025-12-07 00:38:40"
+    },
+    {
+        "transaction_id": "TX2068",
+        "amount": 82995,
+        "type": "sell",
+        "risk_score": 52,
+        "timestamp": "2025-12-07 00:38:42"
+    },
+    {
+        "transaction_id": "TX2754",
+        "amount": 13192,
+        "type": "buy",
+        "risk_score": 90,
+        "timestamp": "2025-12-07 00:38:42"
+    },
+    {
+        "transaction_id": "TX6216",
+        "amount": 92440,
+        "type": "sell",
+        "risk_score": 31,
+        "timestamp": "2025-12-07 00:38:44"
+    },
+    {
+        "transaction_id": "TX2203",
+        "amount": 8208,
+        "type": "buy",
+        "risk_score": 42,
+        "timestamp": "2025-12-07 00:38:44"
+    },
+    {
+        "transaction_id": "TX1133",
+        "amount": 93591,
+        "type": "buy",
+        "risk_score": 97,
+        "timestamp": "2025-12-07 00:38:46"
+    },
+    {
+        "transaction_id": "TX8766",
+        "amount": 8937,
+        "type": "sell",
+        "risk_score": 3,
+        "timestamp": "2025-12-07 00:38:46"
+    },
+    {
+        "transaction_id": "TX9352",
+        "amount": 62494,
+        "type": "sell",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:38:48"
+    },
+    {
+        "transaction_id": "TX9367",
+        "amount": 8487,
+        "type": "sell",
+        "risk_score": 7,
+        "timestamp": "2025-12-07 00:38:48"
+    },
+    {
+        "transaction_id": "TX9669",
+        "amount": 32057,
+        "type": "sell",
+        "risk_score": 38,
+        "timestamp": "2025-12-07 00:38:50"
+    },
+    {
+        "transaction_id": "TX5697",
+        "amount": 81094,
+        "type": "sell",
+        "risk_score": 87,
+        "timestamp": "2025-12-07 00:38:51"
+    },
+    {
+        "transaction_id": "TX1742",
+        "amount": 19553,
+        "type": "sell",
+        "risk_score": 23,
+        "timestamp": "2025-12-07 00:38:53"
+    },
+    {
+        "transaction_id": "TX3786",
+        "amount": 28433,
+        "type": "sell",
+        "risk_score": 53,
+        "timestamp": "2025-12-07 00:38:53"
+    },
+    {
+        "transaction_id": "TX9908",
+        "amount": 26341,
+        "type": "sell",
+        "risk_score": 17,
+        "timestamp": "2025-12-07 00:38:55"
+    },
+    {
+        "transaction_id": "TX6113",
+        "amount": 29265,
+        "type": "sell",
+        "risk_score": 79,
+        "timestamp": "2025-12-07 00:38:55"
+    },
+    {
+        "transaction_id": "TX9400",
+        "amount": 75081,
+        "type": "buy",
+        "risk_score": 69,
+        "timestamp": "2025-12-07 00:38:57"
+    },
+    {
+        "transaction_id": "TX8420",
+        "amount": 32405,
+        "type": "buy",
+        "risk_score": 81,
+        "timestamp": "2025-12-07 00:38:57"
+    },
+    {
+        "transaction_id": "TX3110",
+        "amount": 44678,
+        "type": "sell",
+        "risk_score": 14,
+        "timestamp": "2025-12-07 00:38:59"
+    },
+    {
+        "transaction_id": "TX2655",
+        "amount": 12905,
+        "type": "buy",
+        "risk_score": 46,
+        "timestamp": "2025-12-07 00:38:59"
+    },
+    {
+        "transaction_id": "TX3814",
+        "amount": 67615,
+        "type": "sell",
+        "risk_score": 87,
+        "timestamp": "2025-12-07 00:39:01"
+    },
+    {
+        "transaction_id": "TX2645",
+        "amount": 84643,
+        "type": "sell",
+        "risk_score": 43,
+        "timestamp": "2025-12-07 00:39:01"
+    },
+    {
+        "transaction_id": "TX8501",
+        "amount": 32848,
+        "type": "sell",
+        "risk_score": 82,
+        "timestamp": "2025-12-07 00:39:03"
+    },
+    {
+        "transaction_id": "TX2700",
+        "amount": 47828,
+        "type": "sell",
+        "risk_score": 90,
+        "timestamp": "2025-12-07 00:39:04"
+    },
+    {
+        "transaction_id": "TX4046",
+        "amount": 45489,
+        "type": "buy",
+        "risk_score": 40,
+        "timestamp": "2025-12-07 00:39:06"
+    },
+    {
+        "transaction_id": "TX3984",
+        "amount": 93699,
+        "type": "sell",
+        "risk_score": 42,
+        "timestamp": "2025-12-07 00:39:06"
+    },
+    {
+        "transaction_id": "TX2339",
+        "amount": 8186,
+        "type": "buy",
+        "risk_score": 2,
+        "timestamp": "2025-12-07 00:39:08"
+    },
+    {
+        "transaction_id": "TX2939",
+        "amount": 13200,
+        "type": "buy",
+        "risk_score": 39,
+        "timestamp": "2025-12-07 00:39:08"
+    },
+    {
+        "transaction_id": "TX5922",
+        "amount": 56775,
+        "type": "sell",
+        "risk_score": 17,
+        "timestamp": "2025-12-07 00:39:10"
+    },
+    {
+        "transaction_id": "TX3788",
+        "amount": 12143,
+        "type": "sell",
+        "risk_score": 54,
+        "timestamp": "2025-12-07 00:39:10"
+    },
+    {
+        "transaction_id": "TX1836",
+        "amount": 20925,
+        "type": "buy",
+        "risk_score": 96,
+        "timestamp": "2025-12-07 00:39:12"
+    },
+    {
+        "transaction_id": "TX7205",
+        "amount": 95204,
+        "type": "buy",
+        "risk_score": 45,
+        "timestamp": "2025-12-07 00:39:12"
+    },
+    {
+        "transaction_id": "TX1218",
+        "amount": 25271,
+        "type": "buy",
+        "risk_score": 57,
+        "timestamp": "2025-12-07 00:39:14"
+    },
+    {
+        "transaction_id": "TX6473",
+        "amount": 35521,
+        "type": "sell",
+        "risk_score": 55,
+        "timestamp": "2025-12-07 00:39:14"
+    },
+    {
+        "transaction_id": "TX1819",
+        "amount": 79688,
+        "type": "sell",
+        "risk_score": 76,
+        "timestamp": "2025-12-07 00:39:17"
+    },
+    {
+        "transaction_id": "TX6176",
+        "amount": 27344,
+        "type": "buy",
+        "risk_score": 29,
+        "timestamp": "2025-12-07 00:39:17"
+    },
+    {
+        "transaction_id": "TX6322",
+        "amount": 96489,
+        "type": "buy",
+        "risk_score": 67,
+        "timestamp": "2025-12-07 00:39:19"
+    },
+    {
+        "transaction_id": "TX9325",
+        "amount": 58531,
+        "type": "buy",
+        "risk_score": 25,
+        "timestamp": "2025-12-07 00:39:19"
+    },
+    {
+        "transaction_id": "TX8044",
+        "amount": 68965,
+        "type": "buy",
+        "risk_score": 89,
+        "timestamp": "2025-12-07 00:39:21"
+    },
+    {
+        "transaction_id": "TX6674",
+        "amount": 70178,
+        "type": "buy",
+        "risk_score": 39,
+        "timestamp": "2025-12-07 00:39:21"
+    },
+    {
+        "transaction_id": "TX1566",
+        "amount": 9971,
+        "type": "sell",
+        "risk_score": 80,
+        "timestamp": "2025-12-07 00:39:23"
+    },
+    {
+        "transaction_id": "TX2021",
+        "amount": 86336,
+        "type": "sell",
+        "risk_score": 57,
+        "timestamp": "2025-12-07 00:39:23"
+    },
+    {
+        "transaction_id": "TX3928",
+        "amount": 32932,
+        "type": "buy",
+        "risk_score": 94,
+        "timestamp": "2025-12-07 00:39:25"
+    },
+    {
+        "transaction_id": "TX4156",
+        "amount": 55711,
+        "type": "buy",
+        "risk_score": 75,
+        "timestamp": "2025-12-07 00:39:26"
+    },
+    {
+        "transaction_id": "TX4047",
+        "amount": 36616,
+        "type": "buy",
+        "risk_score": 78,
+        "timestamp": "2025-12-07 00:39:28"
+    },
+    {
+        "transaction_id": "TX1363",
+        "amount": 52844,
+        "type": "sell",
+        "risk_score": 59,
+        "timestamp": "2025-12-07 00:39:28"
+    },
+    {
+        "transaction_id": "TX9336",
+        "amount": 31558,
+        "type": "buy",
+        "risk_score": 93,
+        "timestamp": "2025-12-07 00:39:30"
+    },
+    {
+        "transaction_id": "TX8270",
+        "amount": 37819,
+        "type": "sell",
+        "risk_score": 56,
+        "timestamp": "2025-12-07 00:39:30"
+    },
+    {
+        "transaction_id": "TX8360",
+        "amount": 99197,
+        "type": "buy",
+        "risk_score": 48,
+        "timestamp": "2025-12-07 00:39:32"
+    },
+    {
+        "transaction_id": "TX2548",
+        "amount": 91174,
+        "type": "buy",
+        "risk_score": 30,
+        "timestamp": "2025-12-07 00:39:32"
+    },
+    {
+        "transaction_id": "TX3844",
+        "amount": 67087,
+        "type": "buy",
+        "risk_score": 59,
+        "timestamp": "2025-12-07 00:39:34"
+    },
+    {
+        "transaction_id": "TX4630",
+        "amount": 52605,
+        "type": "buy",
+        "risk_score": 33,
+        "timestamp": "2025-12-07 00:39:34"
+    },
+    {
+        "transaction_id": "TX1754",
+        "amount": 65447,
+        "type": "sell",
+        "risk_score": 7,
+        "timestamp": "2025-12-07 00:39:36"
+    },
+    {
+        "transaction_id": "TX4216",
+        "amount": 59437,
+        "type": "sell",
+        "risk_score": 41,
+        "timestamp": "2025-12-07 00:39:36"
+    },
+    {
+        "transaction_id": "TX5915",
+        "amount": 11236,
+        "type": "buy",
+        "risk_score": 57,
+        "timestamp": "2025-12-07 00:39:38"
+    },
+    {
+        "transaction_id": "TX9047",
+        "amount": 74890,
+        "type": "buy",
+        "risk_score": 75,
+        "timestamp": "2025-12-07 00:39:39"
+    },
+    {
+        "transaction_id": "TX8442",
+        "amount": 80341,
+        "type": "buy",
+        "risk_score": 7,
+        "timestamp": "2025-12-07 00:39:41"
+    },
+    {
+        "transaction_id": "TX5370",
+        "amount": 50349,
+        "type": "buy",
+        "risk_score": 79,
+        "timestamp": "2025-12-07 00:39:41"
+    },
+    {
+        "transaction_id": "TX9768",
+        "amount": 20623,
+        "type": "sell",
+        "risk_score": 21,
+        "timestamp": "2025-12-07 00:39:43"
+    },
+    {
+        "transaction_id": "TX8200",
+        "amount": 99906,
+        "type": "sell",
+        "risk_score": 48,
+        "timestamp": "2025-12-07 00:39:43"
+    },
+    {
+        "transaction_id": "TX5133",
+        "amount": 7748,
+        "type": "buy",
+        "risk_score": 52,
+        "timestamp": "2025-12-07 00:39:45"
+    },
+    {
+        "transaction_id": "TX9396",
+        "amount": 2765,
+        "type": "buy",
+        "risk_score": 77,
+        "timestamp": "2025-12-07 00:39:45"
+    },
+    {
+        "transaction_id": "TX3793",
+        "amount": 33204,
+        "type": "buy",
+        "risk_score": 70,
+        "timestamp": "2025-12-07 00:39:47"
+    },
+    {
+        "transaction_id": "TX5747",
+        "amount": 87500,
+        "type": "sell",
+        "risk_score": 39,
+        "timestamp": "2025-12-07 00:39:47"
+    },
+    {
+        "transaction_id": "TX4589",
+        "amount": 75465,
+        "type": "buy",
+        "risk_score": 83,
+        "timestamp": "2025-12-07 00:39:49"
+    },
+    {
+        "transaction_id": "TX3673",
+        "amount": 31142,
+        "type": "buy",
+        "risk_score": 98,
+        "timestamp": "2025-12-07 00:39:49"
+    },
+    {
+        "transaction_id": "TX3213",
+        "amount": 37610,
+        "type": "sell",
+        "risk_score": 72,
+        "timestamp": "2025-12-07 00:39:51"
+    },
+    {
+        "transaction_id": "TX5414",
+        "amount": 29401,
+        "type": "sell",
+        "risk_score": 81,
+        "timestamp": "2025-12-07 00:39:52"
+    },
+    {
+        "transaction_id": "TX3717",
+        "amount": 48759,
+        "type": "sell",
+        "risk_score": 88,
+        "timestamp": "2025-12-07 00:39:54"
+    },
+    {
+        "transaction_id": "TX9970",
+        "amount": 6998,
+        "type": "sell",
+        "risk_score": 23,
+        "timestamp": "2025-12-07 00:39:54"
+    },
+    {
+        "transaction_id": "TX5493",
+        "amount": 36586,
+        "type": "buy",
+        "risk_score": 64,
+        "timestamp": "2025-12-07 00:39:56"
+    },
+    {
+        "transaction_id": "TX1058",
+        "amount": 77887,
+        "type": "buy",
+        "risk_score": 61,
+        "timestamp": "2025-12-07 00:39:56"
+    },
+    {
+        "transaction_id": "TX7833",
+        "amount": 89045,
+        "type": "sell",
+        "risk_score": 63,
+        "timestamp": "2025-12-07 00:39:58"
+    },
+    {
+        "transaction_id": "TX6402",
+        "amount": 84818,
+        "type": "sell",
+        "risk_score": 82,
+        "timestamp": "2025-12-07 00:39:58"
+    },
+    {
+        "transaction_id": "TX2483",
+        "amount": 87492,
+        "type": "sell",
+        "risk_score": 69,
+        "timestamp": "2025-12-07 00:40:00"
+    },
+    {
+        "transaction_id": "TX8918",
+        "amount": 55373,
+        "type": "buy",
+        "risk_score": 32,
+        "timestamp": "2025-12-07 00:40:00"
+    },
+    {
+        "transaction_id": "TX1030",
+        "amount": 49948,
+        "type": "sell",
+        "risk_score": 25,
+        "timestamp": "2025-12-07 00:40:02"
+    },
+    {
+        "transaction_id": "TX5548",
+        "amount": 50374,
+        "type": "buy",
+        "risk_score": 8,
+        "timestamp": "2025-12-07 00:40:02"
     }
 ]
